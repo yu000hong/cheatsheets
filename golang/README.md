@@ -10,3 +10,5 @@
 ![](basic-literals.png)
 
 ![](composite-literals.png)
+
+![](variables.png)
